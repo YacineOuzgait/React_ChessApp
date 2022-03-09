@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(16, 16, 68);
+}
+table{
+  margin: 10px 0px 10px 0px;
+}
+td{
+    width: 90px;
+    height: 90px;
+    text-align: center;     
+  }
+  .white{
+    background-color: azure;
+  }
+  .blue{
+      background-color: rgb(85, 115, 179);
+  }
+  .image{
+      position: relative;
+      width: 85px;
+      height: 85px;
+  }
+  #w08{
+    border-radius: 10% 0% 0% 0%;
+  }
+  #b01{
+    border-radius: 0% 0% 0% 10%;
+  }
+  #b64{
+    border-radius: 0% 10% 0% 0%
+  }
+  #w57{
+    border-radius: 0% 0% 10% 0%;
+  }
+  

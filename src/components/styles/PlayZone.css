@@ -1,0 +1,13 @@
+.player_zone{
+    display: flex;
+    justify-content: flex-start;
+    margin:10px 0px 10px 0px;
+}
+img{
+    width: 45px;
+    height: 45px;
+    border-radius: 10%;
+}
+.image_profil{
+    margin-right: 5px;
+}
